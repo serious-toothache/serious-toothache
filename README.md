@@ -1,4 +1,4 @@
-# Louisz W. Ringensky
+# Louisz W. Rigensky
 
 **Identity & Access Management Engineer** @ [Yext](https://www.yext.com)
 
