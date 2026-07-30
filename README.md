@@ -1,23 +1,26 @@
 # Louisz W. Rigensky
 
-**Identity & Access Management Engineer** @ [Yext](https://www.yext.com)
+**Aspiring Cybersecurity Professional** | GRC & Technical Security | Nairobi, Kenya
 
-&gt; Managing identity across hybrid environments. Bridging on-premises Active Directory and cloud platforms — Okta, Microsoft Entra ID, and beyond.
+> Bridging governance, risk, and compliance with hands-on technical skills. Building expertise across vulnerability analysis, incident response, SIEM operations, and identity & access management.
 
 ---
 
-## 🔐 IAM Portfolio
+## Personal Project
 
 | Project | Proof | Stack | Status |
 |---------|-------|-------|--------|
-| **SaaS App Integration w/ Okta (SAML)** | [Video & Screenshots](link) | Okta · SAML | ✅ |
-| **Implementing RBAC w/ Okta** | [Video & Screenshots](link) | AD · Okta · SAML | ✅ |
-| **Automated JML w/ Cert-Based AuthN** | [Video & Screenshots](link) | AD · Okta · PowerShell · OAuth 2.0 · RSA · JWT | ✅ |
-| **Entra ID & AD Configuration** | [Screenshots](link) | AD · Entra ID · Entra Connect · CA · MFA | ✅ |
-| **SSO & SCIM Automation** | — | Entra ID · Okta · SAML · OIDC · SCIM | 🔄 |
-| **Access Reviews & Audit Workflow** | — | Entra ID · Access Reviews · CSV | 🔄 |
-| **PIM: Just-in-Time Role Elevation** | — | Entra ID · PIM · JIT | 🔄 |
-| **Risky Sign-Ins & Incident Response** | — | Entra ID · Sentinel · KQL | 🔄 |
+| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe . PostgreSQL . Cloud-flare | ongoing |
+
+
+
+## 🔐  GRC Portfolio
+
+| Project | Proof | Stack | Status |
+|---------|-------|-------|--------|
+| **Imlementing GRC a ** | [Video & Screenshots](link) | AD · Okta · SAML | done |
+
+
 
 ---
 
@@ -38,17 +41,16 @@
 ## 🏅 Certifications
 
 **Earned**
-- CompTIA Security+
-- CompTIA A+
-- CompTIA Network+
-- Google Cybersecurity
-- (Your other earned certs)
+- CompTIA Security+ ce
+- IBM Cybersecurity with capstone project
 
 **In Progress**
 - CISSP
+- Cyber Security GRC Mastery
+- Google Cyber Security Certificate
 
 **Queued**
-- AZ-104 · AZ-500 · SC-300 · SC-200 · SC-400 · SC-100
+- AZ-104
 
 ---
 
