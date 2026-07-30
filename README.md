@@ -10,27 +10,20 @@
 
 | Project | Proof | Stack | Status |
 |---------|-------|-------|--------|
-| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe . PostgreSQL . Cloud-flare | ongoing |
+| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloud-flare | ongoing |
 
 
 
-## 🔐  GRC Portfolio
+## 🔐  GRC Project
 
 | Project | Proof | Stack | Status |
 |---------|-------|-------|--------|
-| **Imlementing GRC a ** | [Video & Screenshots](link) | AD · Okta · SAML | done |
+| **Vendor Security Due Diligence Simulation ** | [Video & Screenshots](link) | CIAQv4 (Consensus Assessments Initiative Questionnaire) · SANS policy templates | done |
+
 
 
 
 ---
-
-## 🛡️ Security & IT Projects
-
-**Security**
-- Internal Security Audit — Botium Toys
-- Python Algorithm — User Access Management
-- SQL Security Investigation — Login & Machine Access Patterns
-- Linux — Enforcing Least Privilege
 
 **IT Support**
 - osTicket Help Desk (Installation, Config, SLAs)
@@ -47,10 +40,10 @@
 **In Progress**
 - CISSP
 - Cyber Security GRC Mastery
-- Google Cyber Security Certificate
+
 
 **Queued**
-- AZ-104
+- AZ-104 · Google Cybersecurity Certificate
 
 ---
 
