@@ -6,22 +6,13 @@
 
 ---
 
-## Personal Project
+## Projects
 
-| Project | Proof | Stack | Status |
+| Project | Proof | Stack | Status | Domain | 
 |---------|-------|-------|--------|
-| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloud-flare | ongoing |
-
-
-
-## 🔐  GRC Project
-
-| Project | Proof | Stack | Status |
-|---------|-------|-------|--------|
-| **Vendor Security Due Diligence Simulation ** | [Video & Screenshots](link) | CIAQv4 (Consensus Assessments Initiative Questionnaire) · SANS policy templates | done |
-
-
-
+| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloud-flare | ongoing | Programming |
+| **Vendor Security Due Diligence Simulation** | [Video & Screenshots](link) | CIAQv4 (Consensus Assessments Initiative Questionnaire) · SANS policy templates | done | GRC |
+| |
 
 ---
 
