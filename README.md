@@ -14,8 +14,9 @@ Evolving from checkbox GRC to engineering systems.
 Why it matters: I will be able to build pipelines and truly migrate from spreadsheets.
 
 Stack: Python · Terraform · MCP · AI-assisted workflows . SQL . 
-Status: 🟡 Currently Leveling Up
-    "Build and Ship Code."
+Status: 🟡 Currently Leveling Up 
+
+> "Build and Ship Code."
 
 
 
