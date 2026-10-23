@@ -39,6 +39,7 @@ Status: 🟡 Currently Leveling Up . Building
 ## 🏅 Certifications
 
 **Earned**
+
 [![CGE-AUD](https://img.shields.io/badge/CGE--AUD-Verified-2E7D32?style=for-the-badge)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
 
 - Certified GRC Engineer - Auditor Specialty (CGE-AUD)  
