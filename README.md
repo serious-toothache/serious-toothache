@@ -1,8 +1,9 @@
-# Louisz W. Rigensky
+Hey, I'm Louisz 👋
 
-**Aspiring Cybersecurity Professional** | GRC & Technical Security | Nairobi, Kenya
+    Computer Science Major. AI Governance Enthusiast. GRC Analyst who has declared screenshots as their sworn enemy. Watching a risk register shrink is my idea of a good day.
+. Obsessed with making compliance less painful for everyone.
 
-> Bridging governance, risk, and compliance with hands-on technical skills. Building expertise across vulnerability analysis, incident response, SIEM operations, and identity & access management.
+I'm not your typical GRC person who lives in spreadsheets. I build tools to escape them. My work sits at the intersection of compliance automation, AI, and education, with a strong belief that guardrails aren't barriers; they're where creativity begins.
 
 ---
 
