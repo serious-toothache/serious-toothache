@@ -6,6 +6,20 @@ Watching a risk register shrink is my idea of a good day.
 
 ---
 
+🚧 What I'm Pursuing Right Now
+🔬 Certified GRC Engineer - Practitioner (CGE-P)
+
+Evolving from checkbox GRC to engineering systems.
+
+Why it matters: I will be able to build pipelines 
+
+Stack: Python · OSCAL · MCP · AI-assisted workflows
+Status: 🟡 In active development — follow along or contribute!
+
+    "I want to show that GRC practitioners can build the tools that change their own field."
+
+
+
 ## Projects
 
 | Project | Proof | Stack | Status | Domain | 
@@ -26,7 +40,7 @@ Watching a risk register shrink is my idea of a good day.
 
 **Earned**
 - CompTIA Security+ ce
-- IBM Cybersecurity with capstone project
+- 
 
 **In Progress**
 - CISSP
@@ -40,4 +54,4 @@ Watching a risk register shrink is my idea of a good day.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/louisz-rigensky-w-3b7700213))
