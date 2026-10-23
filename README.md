@@ -40,13 +40,9 @@ Status: 🟡 Currently Leveling Up . Building
 
 **Earned**
 
-[![CGE-AUD](https://img.shields.io/badge/CGE--AUD-Certified%20GRC%20Engineer%20%7C%20Auditor-00E676?style=for-the-badge&labelColor=0D1117&logo=openbadges&logoColor=00E676)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
-
 [![CGE-AUD](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CGE--AUD%20%C2%B7%20GRC%20Engineer%20Auditor-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
 
-[![CGE-AUD](https://img.shields.io/badge/GRC%20ENGINEERING%20CLUB-CGE--AUD%20%E2%9C%93-7C4DFF?style=for-the-badge&labelColor=12002B&logo=openbadges&logoColor=white)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
-
-[![CGE-AUD](https://img.shields.io/badge/CGE--AUD-Verified-2E7D32?style=for-the-badge)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
+[![ISO/IEC 27001 Lead Auditor](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CompTIA%20Security%2B%20ce-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/cbb6b212-1f54-4149-9ca1-696d98642423)
 
 - Certified GRC Engineer - Auditor Specialty (CGE-AUD)  
 - CompTIA Security+ ce
