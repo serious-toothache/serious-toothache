@@ -25,7 +25,6 @@ Status: 🟡 Currently Leveling Up
 |---------|-------|-------|--------|
 | **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloud-flare | ongoing | Programming |
 | **Vendor Security Due Diligence Simulation** | [Video & Screenshots](link) | CIAQv4 (Consensus Assessments Initiative Questionnaire) · SANS policy templates | done | GRC |
-| |
 
 ---
 
