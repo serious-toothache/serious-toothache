@@ -42,7 +42,7 @@ Status: 🟡 Currently Leveling Up . Building
 
 [![CGE-AUD](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CGE--AUD%20%C2%B7%20GRC%20Engineer%20Auditor-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
 
-[![ISO/IEC 27001 Lead Auditor](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CompTIA%20Security%2B%20ce-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/cbb6b212-1f54-4149-9ca1-696d98642423)
+[![ISO/IEC 27001 Lead Auditor](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-ISO/IEC%2027001%20Lead%20Lead%20AuditorCompTIA%20Security%2B%20ce-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/cbb6b212-1f54-4149-9ca1-696d98642423)
 
 - Certified GRC Engineer - Auditor Specialty (CGE-AUD)  
 - CompTIA Security+ ce
