@@ -22,10 +22,15 @@ Status: 🟡 Currently Leveling Up
 
 ## Projects
 
+## 🛠️ Projects
+
 | Project | Proof | Stack | Status | Domain |
-|---------|-------|-------|--------|
-| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloud-flare | ongoing | Programming |
-| **Vendor Security Due Diligence Simulation** | [Video & Screenshots](link) | CIAQv4 (Consensus Assessments Initiative Questionnaire) · SANS policy templates | done | GRC |
+|---------|-------|-------|--------|--------|
+| **Cloud-Native Audit: Evidence-Based SOC 2 Risk Assessment** | [Verify (CGE-AUD)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de) | AWS · GitHub · GitHub Actions · SOC 2 TSC | ✅ Done | GRC · Audit |
+| **ISO 27001 ISMS Build (Lead Auditor Training)** | [Video & Screenshots](link) | ISO/IEC 27001:2022 · Annex A · Risk Assessment · SoA | ✅ Done | GRC · Audit |
+| **Vendor Security Due Diligence Simulation** | [Video & Screenshots](link) | CAIQv4 · SANS Policy Templates | ✅ Done | GRC |
+| **Non-Profit Payment Platform** | [Video & Screenshots](link) | Node.js · Stripe · PostgreSQL · Cloudflare | 🟡 Ongoing | Programming |
+
 
 ---
 
@@ -46,14 +51,8 @@ Status: 🟡 Currently Leveling Up
 
 [![CompTIA Security+ ce](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CompTIA%20Security%2B%20ce-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/6d2870d0-1d7b-4426-8547-130ea86d6cbd)
 
-
 **In Progress**
-- CISSP
-- Cyber Security GRC Mastery
-
-
-**Queued**
-- AZ-104 · Google Cybersecurity Certificate
+-  Certified GRC Engineer - Practitioner (CGE-P)
 
 ---
 
