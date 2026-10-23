@@ -11,12 +11,12 @@ Watching a risk register shrink is my idea of a good day.
 
 Evolving from checkbox GRC to engineering systems.
 
-Why it matters: I will be able to build pipelines 
+Why it matters: I will be able to build pipelines and truly migrate from spreadsheets.
 
-Stack: Python · OSCAL · MCP · AI-assisted workflows
-Status: 🟡 In active development — follow along or contribute!
+Stack: Python · Terraform · MCP · AI-assisted workflows . SQL . 
+Status: 🟡 Currently Leveling Up . Building 
 
-    "I want to show that GRC practitioners can build the tools that change their own field."
+    "Build and Ship Code."
 
 
 
@@ -39,6 +39,9 @@ Status: 🟡 In active development — follow along or contribute!
 ## 🏅 Certifications
 
 **Earned**
+[![CGE-AUD](https://img.shields.io/badge/CGE--AUD-Verified-2E7D32?style=for-the-badge)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
+
+- Certified GRC Engineer - Auditor Specialty (CGE-AUD)  
 - CompTIA Security+ ce
 - 
 
