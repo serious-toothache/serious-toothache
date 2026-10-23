@@ -1,9 +1,8 @@
 Hey, I'm Louisz 👋
 
-    Computer Science Major. AI Governance Enthusiast. GRC Analyst who has declared screenshots as their sworn enemy. Watching a risk register shrink is my idea of a good day.
-. Obsessed with making compliance less painful for everyone.
+    Computer Science Major. AI Governance Enthusiast. GRC Analyst who has declared screenshots as their sworn enemy. 
 
-I'm not your typical GRC person who lives in spreadsheets. I build tools to escape them. My work sits at the intersection of compliance automation, AI, and education, with a strong belief that guardrails aren't barriers; they're where creativity begins.
+Watching a risk register shrink is my idea of a good day.
 
 ---
 
