@@ -43,9 +43,9 @@ Status: 🟡 Currently Leveling Up
 
 [![ISO/IEC 27001 Lead Auditor](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-ISO/IEC%2027001%20Lead%20Lead%20Auditor-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/cbb6b212-1f54-4149-9ca1-696d98642423)
 
-- Certified GRC Engineer - Auditor Specialty (CGE-AUD)  
-- CompTIA Security+ ce
-- 
+
+[![CompTIA Security+ ce](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CompTIA%20Security%2B%20ce-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://www.credly.com/badges/6d2870d0-1d7b-4426-8547-130ea86d6cbd)
+
 
 **In Progress**
 - CISSP
