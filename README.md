@@ -42,7 +42,7 @@ Status: 🟡 Currently Leveling Up
 
 ## 🏅 Certifications
 
-**Earned**
+**Earned** (`you can click the badges to be redirected to my certifications)
 
 [![CGE-AUD](https://img.shields.io/badge/%E2%9C%94%20VERIFIED-CGE--AUD%20%C2%B7%20GRC%20Engineer%20Auditor-FFB300?style=for-the-badge&labelColor=1B1B1B)](https://cert.grcengclub.com/verify/cgeaud-0ee95c37-6417-6b1a-3eac-b7307ad708de)
 
